@@ -1,0 +1,467 @@
+(dp1
+S"she'll"
+p2
+S'she will'
+p3
+sS"shouldn't've"
+p4
+S'should not have'
+p5
+sS"she'll've"
+p6
+S'she will have'
+p7
+sS"don't"
+p8
+S'do not'
+p9
+sS"should've"
+p10
+S'should have'
+p11
+sS"won't"
+p12
+S'will not'
+p13
+sS"who'll've"
+p14
+S'who will have'
+p15
+sS"he's"
+p16
+S'he has'
+p17
+sS"when's"
+p18
+S'when has'
+p19
+sS"we've"
+p20
+S'we have'
+p21
+sS"he'd"
+p22
+S'he would'
+p23
+sS"ma'am"
+p24
+S'madam'
+p25
+sS"y'all're"
+p26
+S'you all are'
+p27
+sS"he'd've"
+p28
+S'he would have'
+p29
+sS"how'd'y"
+p30
+S'how do you'
+p31
+sS"shan't've"
+p32
+S'will not have'
+p33
+sS"haven't"
+p34
+S'have not'
+p35
+sS"who's"
+p36
+S'who has'
+p37
+sS"they'd"
+p38
+S'they had'
+p39
+sS"oughtn't"
+p40
+S'ought not'
+p41
+sS"I'd"
+p42
+S'I would'
+p43
+sS"you've"
+p44
+S'you have'
+p45
+sS"I'm"
+p46
+S'I am'
+p47
+sS"she'd've"
+p48
+S'she would have'
+p49
+sS"we'll"
+p50
+S'we will'
+p51
+sS"mayn't"
+p52
+S'may not'
+p53
+sS"they've"
+p54
+S'they have'
+p55
+sS"mustn't've"
+p56
+S'must not have'
+p57
+sS"could've"
+p58
+S'could have'
+p59
+sS"what've"
+p60
+S'what have'
+p61
+sS"mustn't"
+p62
+S'must not'
+p63
+sS"isn't"
+p64
+S'is not'
+p65
+sS"that'd've"
+p66
+S'that would have'
+p67
+sS"y'all"
+p68
+S'you all'
+p69
+sS"why's"
+p70
+S'why has'
+p71
+sS"you'd"
+p72
+S'you had'
+p73
+sS"couldn't've"
+p74
+S'could not have'
+p75
+sS"they'll've"
+p76
+S'they will have'
+p77
+sS"we'd"
+p78
+S'we had'
+p79
+sS"y'all'd"
+p80
+S'you all would'
+p81
+sS"he'll've"
+p82
+S'he will have'
+p83
+sS"shan't"
+p84
+g13
+sS"y'all'd've"
+p85
+S'you all would have'
+p86
+sS"there'd"
+p87
+S'there had'
+p88
+sS"needn't"
+p89
+S'need not'
+p90
+sS"where'd"
+p91
+S'where did'
+p92
+sS"hadn't've"
+p93
+S'had not have'
+p94
+sS"wouldn't've"
+p95
+S'would not have'
+p96
+sS"there's"
+p97
+S'there has'
+p98
+sS"shouldn't"
+p99
+S'should not'
+p100
+sS"they'll"
+p101
+S'they will'
+p102
+sS"needn't've"
+p103
+S'need not have'
+p104
+sS"mightn't"
+p105
+S'might not'
+p106
+sS"you're"
+p107
+S'you are'
+p108
+sS"so've"
+p109
+S'so have'
+p110
+sS"what'll"
+p111
+S'what will'
+p112
+sS"mightn't've"
+p113
+S'might not have'
+p114
+sS"hadn't"
+p115
+S'had not'
+p116
+sS"aren't"
+p117
+S'are not'
+p118
+sS"where's"
+p119
+S'where has'
+p120
+sS"I'll've"
+p121
+S'I will have'
+p122
+sS"wouldn't"
+p123
+S'would not'
+p124
+sS"weren't"
+p125
+S'were not'
+p126
+sS"would've"
+p127
+S'would have'
+p128
+sS"it'll"
+p129
+S'it will'
+p130
+sS"we'd've"
+p131
+S'we would have'
+p132
+sS"can't"
+p133
+S'cannot'
+p134
+sS"couldn't"
+p135
+S'could not'
+p136
+sS"how'll"
+p137
+S'how will'
+p138
+sS"doesn't"
+p139
+S'does not'
+p140
+sS"when've"
+p141
+S'when have'
+p142
+sS"how's"
+p143
+S'how has'
+p144
+sS"I've"
+p145
+S'I have'
+p146
+sS"it's"
+p147
+S'it has'
+p148
+sS"how'd"
+p149
+S'how did'
+p150
+sS"we're"
+p151
+S'we are'
+p152
+sS"I'd've"
+p153
+S'I would have'
+p154
+sS"it'd"
+p155
+S'it had'
+p156
+sS"what're"
+p157
+S'what are'
+p158
+sS"oughtn't've"
+p159
+S'ought not have'
+p160
+sS"what's"
+p161
+S'what has'
+p162
+sS"ain't"
+p163
+S'am not'
+p164
+sS"who'll"
+p165
+S'who will'
+p166
+sS"must've"
+p167
+S'must have'
+p168
+sS"I'll"
+p169
+S'I will'
+p170
+sS"they're"
+p171
+S'they are'
+p172
+sS"you'd've"
+p173
+S'you would have'
+p174
+sS"wasn't"
+p175
+S'was not'
+p176
+sS"it'll've"
+p177
+S'it will have'
+p178
+sS"hasn't"
+p179
+S'has not'
+p180
+sS"won't've"
+p181
+g33
+sS"so's"
+p182
+S'so as'
+p183
+sS"you'll've"
+p184
+S'you will have'
+p185
+sS"there'd've"
+p186
+S'there would have'
+p187
+sS"y'all've"
+p188
+S'you all have'
+p189
+sS"didn't"
+p190
+S'did not'
+p191
+sS"where've"
+p192
+S'where have'
+p193
+sS"they'd've"
+p194
+S'they would have'
+p195
+sS"why've"
+p196
+S'why have'
+p197
+sS"it'd've"
+p198
+S'it would have'
+p199
+sS"who've"
+p200
+S'who have'
+p201
+sS"sha'n't"
+p202
+g13
+sS"to've"
+p203
+S'to have'
+p204
+sS"o'clock"
+p205
+S'of the clock'
+p206
+sS"let's"
+p207
+S'let us'
+p208
+sS"what'll've"
+p209
+S'what will have'
+p210
+sS"'cause"
+p211
+S'because'
+p212
+sS"might've"
+p213
+S'might have'
+p214
+sS"he'll"
+p215
+S'he will'
+p216
+sS"that'd"
+p217
+S'that would'
+p218
+sS"we'll've"
+p219
+S'we will have'
+p220
+sS"she'd"
+p221
+S'she had'
+p222
+sS"can't've"
+p223
+S'cannot have'
+p224
+sS"you'll"
+p225
+S'you will'
+p226
+sS"will've"
+p227
+S'will have'
+p228
+sS"she's"
+p229
+S'she has'
+p230
+sS"that's"
+p231
+S'that has'
+p232
+s.
